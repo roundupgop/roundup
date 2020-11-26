@@ -11,16 +11,16 @@
   },
   "emulators": {
     "auth": {
-      "port": 9098
+      "port": 2002
     },
     "functions": {
-      "port": 5002
+      "port": 2003
     },
     "firestore": {
-      "port": 8082
+      "port": 2029
     },
     "pubsub": {
-      "port": 8088
+      "port": 2466
     },
     "ui": {
       "enabled": true
